@@ -1,6 +1,7 @@
 from twilio.rest import Client
 
 # Your Twilio Account SID and Auth Token
+# You will get this from Twilio
 account_sid = 'your_account_sid'
 auth_token = 'your_auth_token'
 
